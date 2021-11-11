@@ -9,12 +9,12 @@
 /**
 * You must either define the PUBLIC_IPV4 constant if you have a static address
 **/
-// define('PUBLIC_IPV4', '82.65.162.75');
+// define('PUBLIC_IPV4', '');
 
 /**
 * Or define the DDNS_HOSTNAME below. We'll do the lookup
 **/
-define('DDNS_HOSTNAME', 'home.mabox.eu');
+define('DDNS_HOSTNAME', '');
 
 /**
 * Both values CAN'T BE SET at the same time
